@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persefone_Miapr4", "Persefone_Miapr4.csproj", "{461C4103-1AD9-49A9-94E8-FCC9655183DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{461C4103-1AD9-49A9-94E8-FCC9655183DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461C4103-1AD9-49A9-94E8-FCC9655183DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461C4103-1AD9-49A9-94E8-FCC9655183DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461C4103-1AD9-49A9-94E8-FCC9655183DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B57F4E9A-128B-440A-A4A4-10F1C340DEA1}
+	EndGlobalSection
+EndGlobal

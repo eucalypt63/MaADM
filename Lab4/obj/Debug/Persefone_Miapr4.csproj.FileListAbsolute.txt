@@ -1,0 +1,16 @@
+C:\Users\korol\OneDrive\Рабочий стол\сем 5\Тесты\Persefone_Miapr4\bin\Debug\Persefone_Miapr4.exe.config
+C:\Users\korol\OneDrive\Рабочий стол\сем 5\Тесты\Persefone_Miapr4\bin\Debug\Persefone_Miapr4.exe
+C:\Users\korol\OneDrive\Рабочий стол\сем 5\Тесты\Persefone_Miapr4\bin\Debug\Persefone_Miapr4.pdb
+C:\Users\korol\OneDrive\Рабочий стол\сем 5\Тесты\Persefone_Miapr4\obj\Debug\Persefone_Miapr4.csproj.AssemblyReference.cache
+C:\Users\korol\OneDrive\Рабочий стол\сем 5\Тесты\Persefone_Miapr4\obj\Debug\Persefone_Miapr4.csproj.SuggestedBindingRedirects.cache
+C:\Users\korol\OneDrive\Рабочий стол\сем 5\Тесты\Persefone_Miapr4\obj\Debug\Persefone_Miapr4.csproj.CoreCompileInputs.cache
+C:\Users\korol\OneDrive\Рабочий стол\сем 5\Тесты\Persefone_Miapr4\obj\Debug\Persefone_Miapr4.exe
+C:\Users\korol\OneDrive\Рабочий стол\сем 5\Тесты\Persefone_Miapr4\obj\Debug\Persefone_Miapr4.pdb
+C:\Users\korol\OneDrive\Рабочий стол\сем 5\МиАПР\Lab4\bin\Debug\Persefone_Miapr4.exe.config
+C:\Users\korol\OneDrive\Рабочий стол\сем 5\МиАПР\Lab4\bin\Debug\Persefone_Miapr4.exe
+C:\Users\korol\OneDrive\Рабочий стол\сем 5\МиАПР\Lab4\bin\Debug\Persefone_Miapr4.pdb
+C:\Users\korol\OneDrive\Рабочий стол\сем 5\МиАПР\Lab4\obj\Debug\Persefone_Miapr4.csproj.AssemblyReference.cache
+C:\Users\korol\OneDrive\Рабочий стол\сем 5\МиАПР\Lab4\obj\Debug\Persefone_Miapr4.csproj.SuggestedBindingRedirects.cache
+C:\Users\korol\OneDrive\Рабочий стол\сем 5\МиАПР\Lab4\obj\Debug\Persefone_Miapr4.csproj.CoreCompileInputs.cache
+C:\Users\korol\OneDrive\Рабочий стол\сем 5\МиАПР\Lab4\obj\Debug\Persefone_Miapr4.exe
+C:\Users\korol\OneDrive\Рабочий стол\сем 5\МиАПР\Lab4\obj\Debug\Persefone_Miapr4.pdb
